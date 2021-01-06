@@ -232,7 +232,7 @@
 		  },
 		  {
 			  "answer" : "No",
-			  "link" : "https://www.northamptonpartnershiphomes.org.uk/sites/default/files/SUPPORTING%20DOCUMENTS%20for%20Housing%20Applications%20%282018%20update%29.pdf"
+			  "link" : "https://www.nph.org.uk/supporting-documents-housing-applications"
 		  }
 	  ]
   },
@@ -532,7 +532,7 @@
 	  "answers" : [
 		  {
 			  "answer" : "Yes",
-			  "link" : "http://www.northampton.gov.uk/info/200183/housing_allocations/1824/homelessness_advice_and_help"
+			  "link" : "https://www.nph.org.uk/other-housing-options"
 		  },
 		  {
 			  "answer" : "No",
@@ -545,7 +545,7 @@
 	  "answers" : [
 		  {
 			  "answer" : "Yes",
-			  "link" : "http://www.northampton.gov.uk/info/200183/housing_allocations/1824/homelessness_advice_and_help"
+			  "link" : "https://www.nph.org.uk/other-housing-options"
 		  },
 		  {
 			  "answer" : "No",
