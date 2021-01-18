@@ -612,7 +612,7 @@
 		  },
 		  {
 			  "answer" : "None of the above",
-			  "link" : "http://www.northampton.gov.uk/info/200183/housing_allocations/1824/homelessness_advice_and_help"
+			  "link" : "https://www.nph.org.uk/other-housing-options"
 		  }
 	  ]
   },
@@ -839,7 +839,7 @@
 		  },
 		  {
 			  "answer" : "No",
-			  "link" : "http://www.northampton.gov.uk/info/200183/housing_allocations/1824/homelessness_advice_and_help"
+			  "link" : "https://www.nph.org.uk/other-housing-options"
 		  }
 	  ]
   },
@@ -891,7 +891,7 @@
 		  },
 		  {
 			  "answer" : "No",
-			  "link" : "http://www.northampton.gov.uk/info/200183/housing_allocations/1824/homelessness_advice_and_help"
+			  "link" : "https://www.nph.org.uk/other-housing-options"
 		  }
 	  ]
   },
@@ -1112,7 +1112,7 @@
 		  },
 		  {
 			  "answer" : "No",
-			  "link" : "http://www.northampton.gov.uk/info/200183/housing_allocations/1824/homelessness_advice_and_help"
+			  "link" : "https://www.nph.org.uk/other-housing-options"
 		  }
 	  ]
   }
