@@ -668,7 +668,7 @@
 	  "answers" : [
 		  {
 			  "answer" : "Yes",
-			  "next" : 100
+			  "link" : "https://homechoice.northampton.gov.uk/oa.live/ibsxmlpr.p?docid=app_entry"
 		  },
 		  {
 			  "answer" : "No",
