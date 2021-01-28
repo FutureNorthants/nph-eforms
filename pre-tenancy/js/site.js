@@ -1035,7 +1035,7 @@
 	  ]
   },
   {//10 (52)
-	  "question" : "Do you have more than 30,000 household gross income</a> (for a single person household) or more than 50,000 gross income</a> (for a family household)?",
+	  "question" : "Do you have more than 30,000 household gross income</a> (for a single person household) or more than 40,000 gross income</a> (for a family household)?",
 	  "answers" : [
 		  {
 			  "answer" : "Yes",
